@@ -1,0 +1,135 @@
+
+
+
+
+
+body {
+    background-color: #141E30;
+    font-family: 'Uchen', serif;
+
+}
+
+header{
+    
+}
+
+
+
+h1 {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: xx-large;
+    color:white;
+    background-color: navy;
+    margin: auto;
+    width: auto;
+    padding: .1%;
+    border:3px solid goldenrod;
+    border-radius: 10px;
+    opacity: auto;
+   
+
+}
+
+h2{
+    color:white;
+    background-color: navy;
+    border:3px solid goldenrod;
+    border-radius:50px;
+    padding: .5%;
+    text-align: center;
+    height: auto;
+    width:  56%;
+    padding: 0.1%;
+
+
+
+}
+hr {
+    height: 2px;
+  background-color: #8c6b48;
+  border-color:  #8c6b48;
+
+    
+}
+
+nav
+
+{
+    background-image:default;
+    font-weight: bold;
+    font-size:medium;
+    opacity: 90%;
+    border: 30px;
+    border-radius: 15px;
+    margin:0 auto ;
+    padding: auto;
+    height: auto;
+    width: 2px;
+    text-align: :left;
+    color:white;
+    
+    
+}
+
+#Blog
+,p{
+    color:white;
+    font-size: large;
+    
+}
+
+figcaption,
+legend
+{
+    color: white;
+
+
+}
+
+label{
+    COLOR:white
+}
+
+#About{
+    font-size:xx-small
+
+}
+
+strong{
+    font-weight: bold;
+    color: goldenrod;
+}
+
+footer h3 {
+    display: inline-block;
+    font-size: 14px;
+    background-color: #242f44;
+  }
+
+  footer {
+    margin-top: 50px;
+    text-align: center;
+   /* position:fixed; */
+    width: 100%;
+    bottom: 5px;
+    background-color: #242f44;
+    z-index: 5;
+  }
+
+  img{
+    
+   
+
+  }
+
+  a{
+    color:goldenrod;
+
+    
+  }
+
+  li{
+    color: white;
+    
+  }
